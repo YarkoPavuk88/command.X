@@ -8,6 +8,7 @@ body {
     text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
     margin-bottom: 0px;
+    color: #40514E;
 
 }
 
@@ -99,9 +100,6 @@ a {
     margin: 50px auto 10px auto;
 }
 
- #self-description {
-    color: #40514E;
- }
 
  .border-dot { 
     border-style: none none dotted;
